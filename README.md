@@ -100,4 +100,102 @@ Yes, you can!
 To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
 
 Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
-# SwarCure---Healing-Through-Indian-Classical-Sound
+# 🎵 SwarCure - Healing Through Indian Classical Sound
+
+> **AI-powered Indian classical music therapy for mental wellness. Experience healing through traditional ragas and sound therapy.**
+
+[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen)](http://localhost:8080)
+[![React](https://img.shields.io/badge/React-18+-blue)](https://reactjs.org/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-5+-blue)](https://www.typescriptlang.org/)
+[![Vite](https://img.shields.io/badge/Vite-4+-purple)](https://vitejs.dev/)
+
+## ✨ Features
+
+- 🎭 **Smart Mood Analysis** - AI detects emotional state for personalized therapy
+- 🎼 **Raga Recommendations** - Specific Indian classical ragas for different therapeutic needs
+- 🧘‍♀️ **Guided Meditation** - Classical music-enhanced mindfulness sessions
+- 👨‍⚕️ **Expert Consultations** - Connect with certified music therapists
+- 📊 **Progress Tracking** - Monitor your wellness journey over time
+- 🌍 **Cultural Education** - Learn about Indian classical music traditions
+- 📱 **Responsive Design** - Seamless experience across all devices
+
+## 🚀 Quick Start
+
+```bash
+# Clone the repository
+git clone https://github.com/vidyavarshinig15/SwarCure---Healing-Through-Indian-Classical-Sound.git
+
+# Navigate to project directory
+cd SwarCure---Healing-Through-Indian-Classical-Sound
+
+# Install dependencies
+npm install
+
+# Start development server
+npm run dev
+
+# Open http://localhost:8080 in your browser
+```
+
+## 🛠️ Tech Stack
+
+- **Frontend**: React 18+ with TypeScript
+- **Build Tool**: Vite for lightning-fast development
+- **Styling**: Modern CSS3 with responsive design
+- **Audio**: Web Audio API for high-quality sound
+- **Fonts**: Google Fonts with Devanagari support
+- **Deployment**: Optimized production builds
+
+## 🎯 Project Structure
+
+```
+src/
+├── components/     # Reusable UI components
+├── pages/         # Main application pages
+├── hooks/         # Custom React hooks
+├── lib/           # Utility functions and APIs
+└── assets/        # Static assets and media
+```
+
+## 🌟 Why SwarCure?
+
+- **Ancient Wisdom + Modern Tech**: 5000+ year old healing tradition powered by AI
+- **Scientifically Backed**: Indian ragas have documented therapeutic effects
+- **Globally Accessible**: Making traditional healing available worldwide
+- **Cultural Preservation**: Respectfully digitizing Indian musical heritage
+- **Mental Health Focus**: Addressing the global mental wellness crisis
+
+## 🎵 Therapeutic Ragas
+
+| Raga | Therapeutic Benefit | Best Time |
+|------|-------------------|-----------|
+| Yaman | Reduces anxiety, promotes peace | Evening |
+| Bhairav | Alleviates depression, energizes | Morning |
+| Malkauns | Deep meditation, spiritual healing | Night |
+| Bilawal | Mental clarity, focus | Anytime |
+
+## 🤝 Contributing
+
+We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.md) for details.
+
+1. Fork the repository
+2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
+
+## 📄 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## 🙏 Acknowledgments
+
+- Traditional Indian classical musicians and therapists
+- Open source community for amazing tools and libraries
+- Beta testers who provided valuable feedback
+
+---
+
+⭐ **Star this repo if you believe in healing through music!** ⭐
+
+*Made with ❤️ for global mental wellness*
