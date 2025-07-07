@@ -104,7 +104,7 @@ Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-trick
 
 > **AI-powered Indian classical music therapy for mental wellness. Experience healing through traditional ragas and sound therapy.**
 
-[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen)](http://localhost:8080)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen)](https://swarcure.netlify.app)
 [![React](https://img.shields.io/badge/React-18+-blue)](https://reactjs.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5+-blue)](https://www.typescriptlang.org/)
 [![Vite](https://img.shields.io/badge/Vite-4+-purple)](https://vitejs.dev/)
@@ -134,7 +134,7 @@ npm install
 # Start development server
 npm run dev
 
-# Open http://localhost:8080 in your browser
+# Open your browser and go to the local development server
 ```
 
 ## 🛠️ Tech Stack
@@ -190,9 +190,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🙏 Acknowledgments
 
-- Traditional Indian classical musicians and therapists
+- Traditional Indian classical musicians and therapists for their wisdom
 - Open source community for amazing tools and libraries
-- Beta testers who provided valuable feedback
+- Beta testers and early adopters for valuable feedback
+- Indian classical music research community
 
 ---
 
